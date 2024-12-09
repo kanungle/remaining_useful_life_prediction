@@ -1,5 +1,4 @@
-# Capstone Project - Team Enginuity
-## Predicting Remaining Useful Life of Jet Engines
+# Predicting Remaining Useful Life of Jet Engines
 
 ## 1.0 Synopsis
 <p>This project included using simulated sensor data from jet engines to estimate the remaining useful life (RUL) of a jet engine. Notations and descriptions are included in the Jupyter Notebooks describing each step. There is also a report available for a general review of the project and it's results.</p>
