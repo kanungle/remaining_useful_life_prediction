@@ -1,0 +1,12 @@
+{
+    "\n    'filters_conv1': [16, 32, 48, 64, 80, 96, 112, 128],\n    'kernel_size_conv1': [2, 3, 4, 5, 6, 8],\n    'activation_conv1': ['sigmoid', 'tanh', 'relu'],\n    'filters_conv2': [16, 32, 48, 64, 80, 96, 128, 256, 384, 512],\n    'kernel_size_conv2': [2, 3, 4, 5, 6, 8, 10],\n    'activation_conv2': ['sigmoid', 'tanh', 'relu'],\n    'dense_neurons': [20, 40, 60, 80, 100, 200, 300, 400, 500],\n    'learning_rate': [0.001],\n    'batch_size': [32],\n    'epochs': [3, 4, 5, 6, 9, 15]\nfilters_conv1": 32,
+    "activation_conv1": "sigmoid",
+    "activation_conv2": "sigmoid",
+    "batch_size": 32,
+    "dense_neurons": 20,
+    "epochs": 4,
+    "filters_conv2": 32,
+    "kernel_size_conv1": 3,
+    "kernel_size_conv2": 5,
+    "learning_rate": 0.001
+}
